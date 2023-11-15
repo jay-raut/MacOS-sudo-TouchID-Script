@@ -3,4 +3,4 @@ Use TouchID for sudo authentication on MacOS. The sudo file found at /etc/pam.d/
 
 
 
-Usage: sudo main.py
+Usage: sudo python3 main.py
